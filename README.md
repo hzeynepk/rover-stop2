@@ -1,7 +1,6 @@
 # rover-stop2
 An improved version of rover-stop
 
- Steps
 
 ### 1. Install dependencies
 ```bash
@@ -16,7 +15,7 @@ import ultralytics
 
 display.clear_output()
 ultralytics.checks()
----
+
 
 2. Download dataset from Roboflow
 
@@ -45,6 +44,3 @@ results = model.predict(source="test/images", conf=0.25)
 
 ---
 
-👉 Böylece hem **bash** (terminal komutları) hem de **python** blokları doğru şekilde ayrılır.  
-
-İstiyor musun ben bunu senin repo’daki `README.md` dosyana uyacak şekilde sadeleştirilmiş kısa versiyonunu da hazırlayayım?

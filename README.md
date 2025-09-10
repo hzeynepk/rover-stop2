@@ -16,6 +16,7 @@ import ultralytics
 
 display.clear_output()
 ultralytics.checks()
+---
 
 2. Download dataset from Roboflow
 

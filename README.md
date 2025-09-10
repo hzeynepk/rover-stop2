@@ -1,9 +1,9 @@
 # rover-stop2
 An improved version of rover-stop
 
-
-### 1. Install dependencies
 ```bash
+### 1. Install dependencies
+
 # Pip install method (recommended)
 pip install ultralytics==8.2.103 -q
 
